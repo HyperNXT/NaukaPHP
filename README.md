@@ -56,3 +56,8 @@
 
 ## Playlisty YouTube
 * 
+
+
+
+## JS
+* [Podstawy Gulp](http://jsdn.pl/gulp-dla-poczatkujacych/)
